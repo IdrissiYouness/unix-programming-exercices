@@ -11,6 +11,6 @@ unix-programming-exercises/
 ├── threads/
 │   ├── basic-threads/     # Thread creation and communication
 │   └── thread-sync/       # Thread synchronization
-```
-
+├── signals/               # Signal handling and inter-process communication
+└── README.md              # This file
 ```
