@@ -7,6 +7,9 @@
 *.obj
 *.elf
 
+#my output signature
+*_o
+
 # Linker output
 *.ilk
 *.map
